@@ -1,6 +1,6 @@
 {
-  "versionCode": 103,
-  "versionName": "0.3.0",
-  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.3.0/SetoReader-0.3.0.apk",
-  "notas": "Capítulos de varias fuentes: aviso de capítulos faltantes en cada serie y en el lector, con botón para buscarlos en otras fuentes. Cada resultado muestra capítulos, faltantes y atraso."
+  "versionCode": 104,
+  "versionName": "0.4.0",
+  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.4.0/SetoReader-0.4.0.apk",
+  "notas": "Sincronizar con Google: tu progreso de lectura queda en tu Drive para seguir en otro celular o en el PC (Ajustes → Sincronizar con Google). Arreglo de la actualización en celulares Xiaomi."
 }
