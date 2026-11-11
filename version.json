@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "0.2.0",
-  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.2.0/SetoReader-0.2.0.apk",
-  "notas": "Búsqueda por obra en todas las fuentes, capítulos y faltantes por fuente, lector estilo MangaZone, tags en español y actualización automática."
+  "versionCode": 103,
+  "versionName": "0.3.0",
+  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.3.0/SetoReader-0.3.0.apk",
+  "notas": "Capítulos de varias fuentes: aviso de capítulos faltantes en cada serie y en el lector, con botón para buscarlos en otras fuentes. Cada resultado muestra capítulos, faltantes y atraso."
 }
