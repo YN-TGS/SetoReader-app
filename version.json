@@ -1,6 +1,6 @@
 {
-  "versionCode": 104,
-  "versionName": "0.4.0",
-  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.4.0/SetoReader-0.4.0.apk",
-  "notas": "Sincronizar con Google: tu progreso de lectura queda en tu Drive para seguir en otro celular o en el PC (Ajustes → Sincronizar con Google). Arreglo de la actualización en celulares Xiaomi."
+  "versionCode": 105,
+  "versionName": "0.5.0",
+  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.5.0/SetoReader-0.5.0.apk",
+  "notas": "La sincronización trae sola todas las series de tus otros equipos. Universos y orden de lectura. Búsqueda avanzada. Actualiza todos tus celulares."
 }
