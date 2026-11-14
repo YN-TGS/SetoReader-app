@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "0.6.0",
-  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.6.0/SetoReader-0.6.0.apk",
-  "notas": "Tu colección en el celular, enviar archivos entre el PC y el celular, y lector de libros EPUB/PDF con el progreso compartido."
+  "versionCode": 107,
+  "versionName": "0.7.0",
+  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.7.0/SetoReader-0.7.0.apk",
+  "notas": "«Probar en otra fuente» cuando una página no carga, migrar conservando la página, limpiar extensiones sin usar y leer los cómics de tu colección."
 }
