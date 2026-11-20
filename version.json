@@ -1,6 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "0.7.1",
-  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.7.1/SetoReader-0.7.1.apk",
-  "notas": "El actualizador muestra el avance y, si el instalador del teléfono no instala, te dice por qué. Incluye todo lo de la 0.7.0: «Probar en otra fuente», migrar conservando la página, limpiar extensiones y leer los cómics de tu colección."
+  "versionCode": 109,
+  "versionName": "0.8.0",
+  "apk": "https://github.com/YN-TGS/SetoReader-app/releases/download/v0.8.0/SetoReader-0.8.0.apk",
+  "notas": "La app ya no se actualiza sola: cuando hay una versión nueva aparece un puntito en «Más» y la instalas tocando «Hay una versión nueva». Antes de instalar comprueba que el archivo sea el correcto. Además, si se corta el Wi-Fi al sincronizar, ya no se borran en la nube las series de tus otros equipos.",
+  "sha256": "32ffe863e8e3df354e55d3f25ce366878ece200e8f2c2c347b0113b2789b5cc6"
 }
